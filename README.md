@@ -44,6 +44,5 @@
 
 > 💬 *"Code with passion, create with purpose, and dream without limits."* 🌠  
 
-![Visitor Count](https://profile-counter.glitch.me/Nithaesh/count.svg)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithaesh&show_icons=true&theme=radical)
