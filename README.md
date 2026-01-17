@@ -1,48 +1,123 @@
-# 🌌 Nithaesh Raja
+# 👋 Hey there, I'm **Nithaesh Raja** 🚀  
 
-🚀 **Aspiring Software Engineer | Game Dev | AI & ML Enthusiast**  
+🎓 **B.Tech CSE Student** | 🤖 **AI & Full-Stack Developer** | 🏆 **Hackathon Builder**  
 
-
-💻 Building intelligent systems that *talk, think, and play!*  
-🎯 Currently working on: **O.R.I.O.N – Python Virtual Assistant** (GUI, SQL, food ordering, music, games)  
-
----
-
-## 🧩 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![PremierePro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+💡 I build **impact-driven tech** — from **AI-powered surveillance systems** to **full-stack platforms fighting food waste**.  
+⚡ Always learning. Always building. Always shipping.
 
 ---
 
-## 🌱 Learning & Growing
-- Advanced Python Automation  
-- Data Structures & Algorithms for top tech interviews 💼  
-- LeetCode challenges & competitive coding 🧩  
+## 🧠 About Me 🧩
+- 🔭 Building **AI, Computer Vision & Full-Stack** projects
+- 🏆 Creator of **RePlate** (GDG Hackathon Project)
+- 🤖 Experienced in **Voice Assistants & Intelligent Systems**
+- 🎮 Unity 3D Game Developer
+- 🎯 Dream: Work at **Google / Microsoft / Top Tech Companies**
+- 🌱 Growth mindset | Open to collaboration & innovation
 
 ---
 
-## 🏆 Projects
-- **O.R.I.O.N**: Intelligent voice assistant with account management, chef instructions, food menus, and mini-games 🎮  
-- **Cube-based Unity Game**: Interactive gameplay & 3D mechanics 🎯  
-- Other experiments: Ethical hacking projects, 3D modeling, and creative graphics 🖌️  
+## 🛠️ Tech Stack & Skills ⚙️
+
+### 👨‍💻 Programming Languages 💻
+- 🐍 **Python** (Primary)
+- ⚙️ C
+- 🌐 JavaScript
+
+### 🌐 Full-Stack Development 🧑‍💻
+- 🎨 HTML5 | CSS3 | JavaScript
+- ⚛️ React.js
+- 🌲 Node.js | Express.js
+- 🔗 REST APIs
+- 🔥 Firebase
+- 🗄️ MySQL | SQL
+
+### 🤖 AI • ML • Computer Vision 👁️
+- 📷 OpenCV
+- 🧠 Object Detection
+- 🎥 Image & Video Processing
+- 🚁 Drone Surveillance Systems
+- ⚙️ AI-based Decision Logic
+
+### 🧠 Intelligent & Voice Systems 🎙️
+- 🗣️ Speech Recognition
+- 🔊 Text-to-Speech (TTS)
+- 💬 Conversational AI
+- 🧠 Context-Aware Memory Systems
+- 🗄️ Database-backed Assistants
+
+### 🎮 Game & 3D Development 🕹️
+- 🧊 Unity (C#)
+- 🎯 Physics-based Gameplay
+- 🖌️ Blender (3D Modeling)
+
+### 🛠️ Tools & Platforms 🔧
+- 🌍 Git & GitHub
+- 🐧 Linux
+- 🖥️ VS Code
+- 🔐 OAuth & APIs
+- ⚡ Hackathon Rapid Prototyping
 
 ---
 
-## 📫 Connect with Me
-![Email](https://img.shields.io/badge/Email-nithaesh.r@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-Nithaesh-181717?style=for-the-badge&logo=github&logoColor=white)  
+## 🚀 Featured Projects 💎
+
+### 🍽️ **RePlate** – Food Waste Reduction Platform  
+🔗 https://github.com/Nithaesh/Replate  
+
+✨ A full-stack platform connecting **food donors** with **NGOs & shelters** to reduce food wastage.  
+- 📍 Nearby NGO matching  
+- 💬 Real-time chat & order tracking  
+- 📦 Donation lifecycle: *Placed → Accepted → Delivered*  
+- 🏆 Built for **Google Developer Groups Hackathon**  
+
+**Tech:** `React` · `Node.js` · `Firebase` · `Maps API`
 
 ---
 
-> 💬 *"Code with passion, create with purpose, and dream without limits."* 🌠  
+### 🚁 **Drone Detection System** – AI Surveillance  
+🔗 https://github.com/Nithaesh/Drone-Detection-  
 
+🛡️ AI-powered drone detection system using **Computer Vision**.  
+- 🎥 Real-time video feed processing  
+- 🧠 Object detection using OpenCV  
+- 🔐 Security & surveillance use-cases  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithaesh&show_icons=true&theme=radical)
+**Tech:** `Python` · `OpenCV` · `Computer Vision`
+
+---
+
+### 🤖 **Orion** – Intelligent Voice Assistant  
+🔗 https://github.com/Nithaesh/Orion-Voice-assistant-  
+
+🎙️ A smart, context-aware **voice & text assistant**.  
+- 🗣️ Speech recognition & TTS  
+- 🧠 Intelligent command handling  
+- 🗄️ MySQL-backed memory system  
+
+**Tech:** `Python` · `MySQL` · `Speech Recognition` · `TTS`
+
+---
+
+### 🎮 **Unity Cube Game**  
+🕹️ Physics-based 3D game built in **Unity**.  
+- 🎯 Focus on mechanics & interaction  
+- 🧊 Clean 3D gameplay design  
+
+---
+
+## 📊 GitHub Stats 📈
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithaesh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithaesh&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Let’s Connect 🤝
+- 💼 **LinkedIn:** *(add your link)*
+- 📧 **Email:** *(add your email)*
+- 🌍 **Portfolio:** *coming soon*
+
+---
+
+⭐ **Like my work? Star ⭐ my repositories & let’s build something awesome together!** 🚀
