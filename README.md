@@ -114,8 +114,8 @@
 ---
 
 ## 🌐 Let’s Connect 🤝
-- 💼 **LinkedIn:** *(add your link)*
-- 📧 **Email:** *(add your email)*
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/nithaesh-raja/*
+- 📧 **Email:** *nithaesh.r@gmail.com*
 - 🌍 **Portfolio:** *coming soon*
 
 ---
